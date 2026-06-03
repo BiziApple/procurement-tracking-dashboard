@@ -1,0 +1,6 @@
+Supplier_ID,Supplier_Name,Category,Contact_Person,Email,Phone,Location,Registration_Status,Performance_Rating,Remarks
+SUP-001,Alpha Tech Solutions,ICT Equipment,Jean Paul,alpha@example.com,0788000001,Kigali,Approved,Excellent,Delivered on time
+SUP-002,Prime Office Supplies,Office Materials,Claudine,prime@example.com,0788000002,Kigali,Approved,Good,Reliable supplier
+SUP-003,DataPro Systems,Software Services,Emmanuel,datapro@example.com,0788000003,Kigali,Pending,Good,Awaiting verification
+SUP-004,SecureNet Rwanda,Cybersecurity Services,Patrick,securenet@example.com,0788000004,Kigali,Approved,Excellent,Strong technical capacity
+SUP-005,Logistics Plus,Transport and Logistics,Alice,logistics@example.com,0788000005,Kigali,Approved,Average,Needs faster delivery
